@@ -1,0 +1,59 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto+Condensed';
+
+.page {
+  background-image: url("https://hd.unsplash.com/photo-1457144759132-40d119c2f120");
+  background-size: cover;
+}
+
+.quotebox {
+  text-align: right;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 22px;
+}
+
+#addquotebox {
+  background-color: black;
+  border-color: #123456;
+  border-right: none;
+  border-top: none;
+  color: lightgray;
+}
+#addauthorbox {
+  margin-top: 10px;
+  background-color: black;
+  border-color: #123456;
+  border-right: none;
+  border-top: none;
+  color: lightgray;
+}
+
+.addquotebtn {
+  background-color: #272727;
+  border-radius: 25px;
+  border: none;
+  color: lightgray;
+}
+#findquotebox {
+  background-color: black;
+  border-color: #123456;
+  border-right: none;
+  border-top: none;
+  color: lightgray;
+}
+.text {
+  color: lightgray;
+}
+
+.author {
+  color: lightgray;
+  font-size: 14px;
+  opacity: 0.5;
+}
+
+.deletebutton {
+  margin-right: 25vh;
+  background-repeat: no-repeat;
+  border: none;
+  background-color: black;
+  color: lightgray;
+}
